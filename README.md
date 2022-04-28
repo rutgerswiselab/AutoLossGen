@@ -39,7 +39,7 @@ tqdm==4.62.3
 
 AutoLossGen has three phases. 
 
-<embed src="/pics/Loss_Generation_Process_ver2.0.pdf" type="application/pdf">
+![Image Loss](pics/Loss_Generation_Process_ver2.0.jpg)
 
 An example to run the first phase: Loss Search
 
