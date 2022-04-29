@@ -2,14 +2,14 @@
 
 This repository includes the implementation for paper "AutoLossGen: Automatic Loss Function Generation for Recommender Systems".
 
-*Zelong Li, Jianchao Ji, Yingqiang Ge, Yongfeng Zhang. 2022. [AutoLossGen: Automatic Loss Function Generation for Recommender Systems](). In the Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '22)*
+*Zelong Li, Jianchao Ji, Yingqiang Ge, Yongfeng Zhang. 2022. [AutoLossGen: Automatic Loss Function Generation for Recommender Systems](https://arxiv.org/abs/2204.13160). In the Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '22)*
 
 This package is mainly contributed by [Zelong Li](https://github.com/lzl65825) (zelong.li@rutgers.edu), [Yongfeng Zhang](https://github.com/evison) (yongfeng.zhang@rutgers.edu).
 We welcome any issues and requests for model implementation and bug fix.
 
 ## Citation
 
-If you use the code, please cite our [paper]():
+If you use the code, please cite our [paper](https://arxiv.org/abs/2204.13160):
 
 ```
 @article{li2022autolossgen,
