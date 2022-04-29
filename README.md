@@ -56,7 +56,7 @@ The second phase: Validation Check is run by
 python loss_valid_check.py
 ```
 
-The file path and decode method are currently hard code in this python file.
+The file path and decode method are currently hard coded in this python file.
 
 The last phase: Effectiveness Test. An example is:
 
